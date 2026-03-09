@@ -1,0 +1,74 @@
+[
+    {
+        "week": 1,
+        "title": "Week 1",
+        "tasks": [
+            {
+                "id": "t1",
+                "name": "Frame Assembly",
+                "description": "Assemble the carbon fiber main frame and landing gear.",
+                "status": "completed"
+            },
+            {
+                "id": "t2",
+                "name": "Motor Mounting",
+                "description": "Secure the brushless motors to the frame arms.",
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "week": 2,
+        "title": "Week 2",
+        "tasks": [
+            {
+                "id": "t3",
+                "name": "ESC Calibration",
+                "description": "Install and calibrate the Electronic Speed Controllers.",
+                "status": "in-progress"
+            },
+            {
+                "id": "t4",
+                "name": "Power Distribution",
+                "description": "Solder connections to the Power Distribution Board (PDB).",
+                "status": "pending"
+            }
+        ]
+    },
+    {
+        "week": 3,
+        "title": "Week 3",
+        "tasks": [
+            {
+                "id": "t5",
+                "name": "Flight Controller Setup",
+                "description": "Mount the flight controller and configure initial firmware.",
+                "status": "pending"
+            },
+            {
+                "id": "t6",
+                "name": "Receiver Binding",
+                "description": "Bind the radio receiver to the transmitter.",
+                "status": "pending"
+            }
+        ]
+    },
+    {
+        "week": 4,
+        "title": "Week 4",
+        "tasks": [
+            {
+                "id": "t7",
+                "name": "GPS & Telemetry",
+                "description": "Install GPS module and test telemetry transmission.",
+                "status": "pending"
+            },
+            {
+                "id": "t8",
+                "name": "Maiden Flight",
+                "description": "Perform first hover test and tune PID values.",
+                "status": "pending"
+            }
+        ]
+    }
+]
